@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# man what is this 💀💀💀💀💀💀💀💀💀💀💀💀💀💀
+# man what is this 💀💀💀💀💀💀💀💀💀💀💀💀💀
 
 echo "I AM BOOM BOOM VIRUS. IF YOU WANT TO DELETE THE VIRUS, SOLVE THIS MATH PROBLEM CORRECTLY. IF YOU FAIL, YOUR COMPUTER WILL BOOM BOOM."
 
