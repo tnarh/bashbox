@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 clear
 
 correct=$((RANDOM % 100 + 1))
